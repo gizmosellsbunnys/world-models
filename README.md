@@ -11,7 +11,7 @@ Please follow these basic rules for getting the model to work correctly when use
 
 2) Make sure the origin of the model (0,0) point is directly in the middle ground of the house, and the model is lined up with the X and Z axis (i.e. It isn't slanted). This means that in Sketchup, the Y axis should cut straight up through the centre of the house, and the X and Z should be aligned to your outer walls. This is really important to get the model to rotate and fit properly into the footprint and match the scenery correctly.
 
-3) If creating houses for hilly or mountain areas, add foundations to the house. In other words, expect the house will be placed on the side of the hill, and with out foundations on the negative Y axis, it will appear to float.
+3) Create a foundation a few metres deep for the building. Expect the house may be placed on the side of the hill or sloped terrain, and with out foundations on the negative Y axis, it will appear to float.
 
 4) Put as many buildings as you can onto one texture sheet, mix and match styles to create new varieties if possible. The less textures X-Plane needs to load, the better.
 
@@ -24,5 +24,7 @@ RET_15.00x20.00x4.00_EU. For a retail building (RET), with a footprint of 15m by
 Please only use metric measurements, as this is what X-Plane uses, as well as the importer program.
 
 6) Use as few faces as possible. There is no need to model window ledges, skirting. These things can be done in a texture, and really help with performance. If using models from Google Warehouse and retexturing, be aware, many of the models have hundreds of complicated faces.
+
+7) Keep textures small, you can easily map a house using a small area of one texture sheet. The textures do not need to be high resolution
 
 
