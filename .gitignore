@@ -1,0 +1,6 @@
+#Windows thumbnails
+Thumbs.db
+
+#Sketchup models
+*.skp
+*.skb
