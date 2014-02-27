@@ -2,8 +2,8 @@ I
 800
 OBJ
 
-TEXTURE		ch_houses_06.png
-TEXTURE_LIT	ch_houses_06_LIT.png
+TEXTURE		ch_commercial_01.png
+TEXTURE_LIT	ch_commercial_01_LIT.png
 POINT_COUNTS	56 0 0 84
 
 VT	  16.0000   -5.1355   -7.5000	 1.000  0.000 -0.000	 0.1878  0.2554
