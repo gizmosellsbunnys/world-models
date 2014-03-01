@@ -2,8 +2,8 @@ I
 800
 OBJ
 
-TEXTURE		tiindustrie_1.png
-TEXTURE_LIT	tiindustrie_1_LIT.png
+TEXTURE		ch_commercial_02.png
+TEXTURE_LIT	ch_commercial_02_LIT.png
 POINT_COUNTS	276 0 0 432
 
 VT	  -3.4660   15.0860   -7.2563	-1.000  0.000 -0.000	 0.6474  0.0297
