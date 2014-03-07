@@ -1,11 +1,18 @@
-world-models
+3D Models for World2XPlane
 ============
 
-3D models used in the world to X-Plane scenery generator.
+This library is a collection of buildings used to generate regional scenery for X-Plane using [World2XPlane](http://www.world2xplane.com)
 
-Creating Models for use with X-Plane scenery tool
+![Alt text](/buildings.jpg "3D Model Library")
 
-Please follow these basic rules for getting the model to work correctly when used in the scenery tool.
+The library is opensource and is included/updated in each release of World2XPlane. The library can also be checked out here and placed into the release manually. 
+
+We are looking for contributors who can submit 3D buildings or optionally photographs of regional buildings to help really expand the available scenery inside X-Plane.
+
+----------------------------------------------
+Creating Models for use with World2XPlane
+
+Please follow these basic rules for getting the model to work correctly when used for scenery generation
 
 1) Once you have a footprint for the model, e.g. 10m - 11m, stick to the footprint, don't expand out from the house, by example, adding a garage, if it isn't included in the footprint
 
