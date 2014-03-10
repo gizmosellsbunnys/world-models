@@ -10,6 +10,11 @@ width,length,type,region,model,height-min,height-max,stories
 23.03,22.95,commercial,CH,objects/commercial/EU/CH/COM_23.03x22.95x24.34_CH.obj,20,30,4
 17.06,17.00,commercial,CH,objects/commercial/EU/CH/COM_17.06x17.00x11.00_CH.obj,5,15,3
 64.43,21.66,commercial,CH,objects/commercial/EU/CH/COM_64.43x21.66x15.16_CH.obj,10,20,4
+22.00,15.00,commercial,CH,objects/commercial/EU/CH/COM_22.00x15.00x12.00_CH.obj,10,15,
+15.00,10.00,commercial,CH,objects/commercial/EU/CH/COM_15.00x10.00x15.00_CH.obj,10,20,
+25.00,15.00,commercial,CH,objects/commercial/EU/CH/COM_25.00x15.00x15.00_CH.obj,10,20,
+30.00,20.00,commercial,CH,objects/commercial/EU/CH/COM_30.00x20.00x15.13_CH.obj,10,20,
+20.00,20.00,commercial,CH,objects/commercial/EU/CH/COM_20.00x20.00x14.00_CH.obj,8,18,
 7.52,16.3,commercial,CE;PL;DE,objects/houses/EU/PL/R_7.52x16.3_PL.obj,,,2
 7.75,16.3,commercial,CE;PL;DE,objects/houses/EU/PL/R_7.75x16.3_PL.obj,,,2
 9.62,17.0,commercial,CE;PL;DE,objects/houses/EU/PL/R_9.62x17.0_PL.obj,,,2
