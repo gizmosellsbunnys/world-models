@@ -310,7 +310,7 @@ width,length,type,region,model,height-min,height-max,stories
 63.90,12.8,residential,CE;PL;DE,objects/houses/EU/R_63.90x12.5_5PL.obj,10,20,5
 18.00,10.0,residential,CE;PL;DE,objects/houses/EU/PL/RES_18.00x10.00_PL.obj,,,2
 22.9,16.7,residential,CE;PL,objects/commercial/EU/COM_22.9x16.7_PL.obj,,,2
-11.00,9.00,residential,NL;DE,objects/houses/EU/R_11.00x9.00.obj,,,2
+11.00,9.00,residential,CE,objects/houses/EU/R_11.00x9.00.obj,,,2
 20.00.00,15.50.00,residential,CH;IT;ES,objects/houses/EU/IT/RUR_20.00X15.50X5.50_IT.obj,4,10,1
 20.00.00,20.00.00,residential,CH;IT;ES,objects/houses/EU/IT/RUR_20.00X20.00X5.00_IT.obj,4,10,1
 20.00.00,20.00.00,residential,CH;IT;ES,objects/houses/EU/IT/RUR_20.00X20.00X10.00_IT.obj,7,13,2
