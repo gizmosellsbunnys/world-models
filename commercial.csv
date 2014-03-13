@@ -15,6 +15,8 @@ width,length,type,region,model,height-min,height-max,stories
 25.00,15.00,commercial,CH,objects/commercial/EU/CH/COM_25.00x15.00x15.00_CH.obj,10,20,
 30.00,20.00,commercial,CH,objects/commercial/EU/CH/COM_30.00x20.00x15.13_CH.obj,10,20,
 20.00,20.00,commercial,CH,objects/commercial/EU/CH/COM_20.00x20.00x14.00_CH.obj,8,18,
+30.70,11.90,commercial,CH,objects/commercial/EU/CH/COM_30.70x11.90x8.28_CH.obj,5,10,
+58.90,26.18,commercial,CH,objects/commercial/EU/CH/COM_58.90x26.18x14.76_CH.obj,10,20,
 7.52,16.3,commercial,CE;PL;DE,objects/houses/EU/PL/R_7.52x16.3_PL.obj,,,2
 7.75,16.3,commercial,CE;PL;DE,objects/houses/EU/PL/R_7.75x16.3_PL.obj,,,2
 9.62,17.0,commercial,CE;PL;DE,objects/houses/EU/PL/R_9.62x17.0_PL.obj,,,2
