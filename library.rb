@@ -7,7 +7,7 @@ Find.find('.') do |path|
 end
 
 paths.each do |path|
-  if path.include? ".obj"
+  if path.include?(".obj") || path.include?(".OBJ")
     lib = path[2..-1]
     entries << lib
   end
@@ -19,7 +19,9 @@ File.open("library.txt","w") do |f|
   f.write("LIBRARY\n\n")
   f.write("# World2XPlane Model Library\n\n")
   entries.each do |entry|
-    f.write("EXPORT " << "world_models/" << entry << " objects/" << entry << "\n");
+    f.write("EXPORT " << "objects/" << entry << " " << entry << "\n");
+   
+    
   end
 
 
