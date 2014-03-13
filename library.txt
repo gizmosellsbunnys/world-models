@@ -155,7 +155,9 @@ EXPORT objects/landmarks/UA/Hram-Hram_0.obj landmarks/UA/Hram-Hram_0.obj
 EXPORT objects/landmarks/UA/MON.obj landmarks/UA/MON.obj
 EXPORT objects/landmarks/UA/armor.obj landmarks/UA/armor.obj
 EXPORT objects/landmarks/UA/spsob.obj landmarks/UA/spsob.obj
+EXPORT objects/obstacles/Fuel_Tank.obj obstacles/Fuel_Tank.obj
 EXPORT objects/obstacles/R_Tower_50m.obj obstacles/R_Tower_50m.obj
 EXPORT objects/obstacles/R_Tower_GRN_65m.obj obstacles/R_Tower_GRN_65m.obj
 EXPORT objects/obstacles/R_Tower_SAT_107m.obj obstacles/R_Tower_SAT_107m.obj
+EXPORT objects/obstacles/Water_Tower_3.obj obstacles/Water_Tower_3.obj
 EXPORT objects/supermarkets/RET_64.00x32.00_LIDL_PL.obj supermarkets/RET_64.00x32.00_LIDL_PL.obj
