@@ -13,10 +13,12 @@ EXPORT objects/commercial/EU/CH/COM_24.00x16.00x15.00_CH.obj commercial/EU/CH/CO
 EXPORT objects/commercial/EU/CH/COM_25.00x15.00x15.00_CH.obj commercial/EU/CH/COM_25.00x15.00x15.00_CH.obj
 EXPORT objects/commercial/EU/CH/COM_28.00x13.00x11.00_CH.obj commercial/EU/CH/COM_28.00x13.00x11.00_CH.obj
 EXPORT objects/commercial/EU/CH/COM_30.00x20.00x15.13_CH.obj commercial/EU/CH/COM_30.00x20.00x15.13_CH.obj
+EXPORT objects/commercial/EU/CH/COM_30.70x11.90x8.28_CH.obj commercial/EU/CH/COM_30.70x11.90x8.28_CH.obj
 EXPORT objects/commercial/EU/CH/COM_32.00x15.00x11.00_CH.obj commercial/EU/CH/COM_32.00x15.00x11.00_CH.obj
 EXPORT objects/commercial/EU/CH/COM_33.84x22.56x21.15_CH.obj commercial/EU/CH/COM_33.84x22.56x21.15_CH.obj
 EXPORT objects/commercial/EU/CH/COM_37.80x17.55x14.85_CH.obj commercial/EU/CH/COM_37.80x17.55x14.85_CH.obj
 EXPORT objects/commercial/EU/CH/COM_41.60x19.50x14.30_CH.obj commercial/EU/CH/COM_41.60x19.50x14.30_CH.obj
+EXPORT objects/commercial/EU/CH/COM_58.90x26.18x14.76_CH.obj commercial/EU/CH/COM_58.90x26.18x14.76_CH.obj
 EXPORT objects/commercial/EU/CH/COM_64.43x21.66x15.16_CH.obj commercial/EU/CH/COM_64.43x21.66x15.16_CH.obj
 EXPORT objects/commercial/EU/CH/IND_24.99x32.69x9.53_CH.obj commercial/EU/CH/IND_24.99x32.69x9.53_CH.obj
 EXPORT objects/commercial/EU/CH/IND_92.12x61.32x16.41_CH.obj commercial/EU/CH/IND_92.12x61.32x16.41_CH.obj
