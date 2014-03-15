@@ -321,4 +321,6 @@ width,length,type,region,model,height-min,height-max,stories
 30.00,12.50,residential,CH;IT;ES,objects/houses/EU/IT/RUR_30.00X12.50X7.00_IT.obj,5,10,2
 30.00,20.50,residential,CH;IT;ES,objects/houses/EU/IT/RUR_30.00X20.50X8.00_IT.obj,5,10,2
 32.00,16.00,residential,CH;IT;ES,objects/houses/EU/IT/RUR_32.00X16.00X10.00_IT.obj,7,13,2
-12.30,9.00,residential,CH;IT;ES,objects/houses/EU/FR/RES_12.34x9.50_FR.obj,,,2
+12.30,9.00,residential,FR;NL;GB;BE,objects/houses/EU/FR/RES_12.34x9.50_FR.obj,,,2
+10.40,11.00,residential,FR;NL;GB;BE,objects/houses/EU/FR/RES_10.4x11.0_FR.obj,,,2
+

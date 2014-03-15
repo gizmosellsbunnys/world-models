@@ -49,6 +49,7 @@ EXPORT objects/houses/EU/CH/RES_39.68x12.45x14.16_CH.obj houses/EU/CH/RES_39.68x
 EXPORT objects/houses/EU/CH/RES_6.00x12.00x6.50_CH.obj houses/EU/CH/RES_6.00x12.00x6.50_CH.obj
 EXPORT objects/houses/EU/CH/RES_7.00x12.00x10.00_CH.obj houses/EU/CH/RES_7.00x12.00x10.00_CH.obj
 EXPORT objects/houses/EU/ES/R_10x10_ES_1.obj houses/EU/ES/R_10x10_ES_1.obj
+EXPORT objects/houses/EU/FR/RES_10.4x11.0_FR.obj houses/EU/FR/RES_10.4x11.0_FR.obj
 EXPORT objects/houses/EU/FR/RES_12.34x9.50_FR.obj houses/EU/FR/RES_12.34x9.50_FR.obj
 EXPORT objects/houses/EU/GB/R_10.0x12.0_UK_3.obj houses/EU/GB/R_10.0x12.0_UK_3.obj
 EXPORT objects/houses/EU/GB/R_3.76x7.95_UK_1.obj houses/EU/GB/R_3.76x7.95_UK_1.obj
