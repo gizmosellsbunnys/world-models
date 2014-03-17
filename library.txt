@@ -158,7 +158,7 @@ EXPORT objects/landmarks/UA/MON.obj landmarks/UA/MON.obj
 EXPORT objects/landmarks/UA/armor.obj landmarks/UA/armor.obj
 EXPORT objects/landmarks/UA/spsob.obj landmarks/UA/spsob.obj
 EXPORT objects/obstacles/Fuel_Tank.obj obstacles/Fuel_Tank.obj
-EXPORT objects/obstacles/GSM-tow.OBJ obstacles/GSM-tow.OBJ
+EXPORT objects/obstacles/GSM-tow.obj obstacles/GSM-tow.obj
 EXPORT objects/obstacles/R_Tower_50m.obj obstacles/R_Tower_50m.obj
 EXPORT objects/obstacles/R_Tower_GRN_65m.obj obstacles/R_Tower_GRN_65m.obj
 EXPORT objects/obstacles/R_Tower_SAT_107m.obj obstacles/R_Tower_SAT_107m.obj
