@@ -26,6 +26,7 @@ EXPORT objects/commercial/EU/COM_14.5x25.1_PL.obj commercial/EU/COM_14.5x25.1_PL
 EXPORT objects/commercial/EU/COM_22.9x16.7_PL.obj commercial/EU/COM_22.9x16.7_PL.obj
 EXPORT objects/commercial/EU/COM_23.0x18.8_PL.obj commercial/EU/COM_23.0x18.8_PL.obj
 EXPORT objects/commercial/EU/COM_35.8x13.8_PL.obj commercial/EU/COM_35.8x13.8_PL.obj
+EXPORT objects/commercial/EU/RET_Biedronka_25.3x38.5_PL.obj commercial/EU/RET_Biedronka_25.3x38.5_PL.obj
 EXPORT objects/houses/EU/AT/R_12x12_AT.obj houses/EU/AT/R_12x12_AT.obj
 EXPORT objects/houses/EU/AT/R_26.50x27.00_AT.obj houses/EU/AT/R_26.50x27.00_AT.obj
 EXPORT objects/houses/EU/BlackRoof_R_11.00x9.00.obj houses/EU/BlackRoof_R_11.00x9.00.obj
@@ -113,6 +114,7 @@ EXPORT objects/houses/EU/PL/R_16.8x14.5_PL.obj houses/EU/PL/R_16.8x14.5_PL.obj
 EXPORT objects/houses/EU/PL/R_21.2x13.4.obj houses/EU/PL/R_21.2x13.4.obj
 EXPORT objects/houses/EU/PL/R_22.6x13.3_PL.obj houses/EU/PL/R_22.6x13.3_PL.obj
 EXPORT objects/houses/EU/PL/R_30x11_PL.obj houses/EU/PL/R_30x11_PL.obj
+EXPORT objects/houses/EU/PL/R_47.9x11.2_PL.obj houses/EU/PL/R_47.9x11.2_PL.obj
 EXPORT objects/houses/EU/PL/R_7.52x16.3_PL.obj houses/EU/PL/R_7.52x16.3_PL.obj
 EXPORT objects/houses/EU/PL/R_7.75x16.3_PL.obj houses/EU/PL/R_7.75x16.3_PL.obj
 EXPORT objects/houses/EU/PL/R_9.0x9.0_PL_1.obj houses/EU/PL/R_9.0x9.0_PL_1.obj
@@ -167,6 +169,7 @@ EXPORT objects/landmarks/UA/armor.obj landmarks/UA/armor.obj
 EXPORT objects/landmarks/UA/spsob.obj landmarks/UA/spsob.obj
 EXPORT objects/obstacles/Fuel_Tank.obj obstacles/Fuel_Tank.obj
 EXPORT objects/obstacles/GSM-tow.obj obstacles/GSM-tow.obj
+EXPORT objects/obstacles/Pylon-Lift.obj obstacles/Pylon-Lift.obj
 EXPORT objects/obstacles/R_Tower_50m.obj obstacles/R_Tower_50m.obj
 EXPORT objects/obstacles/R_Tower_GRN_65m.obj obstacles/R_Tower_GRN_65m.obj
 EXPORT objects/obstacles/R_Tower_SAT_107m.obj obstacles/R_Tower_SAT_107m.obj

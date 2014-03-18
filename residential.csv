@@ -307,6 +307,7 @@ width,length,type,region,model,height-min,height-max,stories
 92.0,13.5,residential,CE;PL;DE,objects/houses/EU/PL/blok_92x13.5.obj,10,20,5
 103.0,13.0,residential,CE;PL;DE,objects/houses/EU/PL/blok_103.0x13.0.obj,10,20,5
 105.0,14.4,residential,CE;PL;DE,objects/houses/EU/PL/blok_105.8x14.4.obj,10,20,5
+47.9,11.2,residential,CE;PL;DE,objects/houses/EU/PL/R_47.9x11.2_PL.obj,,,5
 63.90,12.8,residential,CE;PL;DE,objects/houses/EU/R_63.90x12.5_5PL.obj,10,20,5
 18.00,10.0,residential,CE;PL;DE,objects/houses/EU/PL/RES_18.00x10.00_PL.obj,,,2
 22.9,16.7,residential,CE;PL,objects/commercial/EU/COM_22.9x16.7_PL.obj,,,2
