@@ -308,7 +308,7 @@ IDX	232
 IDX	233
 
 ATTR_LOD 0 5000.000000
-ATTR_NO_CUL
+ATTR_no_cull
 TRIS	0 612
 
 # Built with SketchUp 8.0.14346. Exported with SketchUp2XPlane 1.56.

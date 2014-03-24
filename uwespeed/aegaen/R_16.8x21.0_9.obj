@@ -468,7 +468,7 @@ IDX10	358 357 356 359 356 357 362 361 360 363
 IDX	360
 IDX	361
 
-ATTR_NO_CUL
+ATTR_no_cull
 TRIS	0 942
 
 # Built with SketchUp 8.0.14346. Exported with SketchUp2XPlane 1.56.

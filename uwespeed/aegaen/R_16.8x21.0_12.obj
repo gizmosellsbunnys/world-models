@@ -658,7 +658,7 @@ IDX	509
 IDX	510
 IDX	511
 
-ATTR_NO_CUL
+ATTR_no_cull
 TRIS	0 1326
 
 # Built with SketchUp 8.0.14346. Exported with SketchUp2XPlane 1.56.

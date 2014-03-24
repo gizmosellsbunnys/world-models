@@ -1007,7 +1007,7 @@ IDX10	780 779 778 781 778 779 782 783 784 783
 IDX	782
 IDX	785
 
-ATTR_NO_CUL
+ATTR_no_cull
 TRIS	0 2112
 
 # Built with SketchUp 8.0.14346. Exported with SketchUp2XPlane 1.56.

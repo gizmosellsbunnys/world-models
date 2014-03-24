@@ -563,7 +563,7 @@ IDX10	440 439 436 441 439 440 442 441 440 443
 IDX	442
 IDX	440
 
-ATTR_NO_CUL
+ATTR_no_cull
 TRIS	0 1092
 
 # Built with SketchUp 8.0.14346. Exported with SketchUp2XPlane 1.56.

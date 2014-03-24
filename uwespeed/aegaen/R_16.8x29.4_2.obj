@@ -714,7 +714,7 @@ IDX10	544 543 542 545 542 543 548 547 546 549
 IDX	546
 IDX	547
 
-ATTR_NO_CUL
+ATTR_no_cull
 TRIS	0 1542
 
 # Built with SketchUp 8.0.14346. Exported with SketchUp2XPlane 1.56.

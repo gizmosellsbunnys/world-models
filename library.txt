@@ -4,6 +4,20 @@ LIBRARY
 
 # World2XPlane Model Library
 
+EXPORT objects/cars/car_mercedes_sprinter.obj cars/car_mercedes_sprinter.obj
+EXPORT objects/cars/cars_bmw_3_touring.obj cars/cars_bmw_3_touring.obj
+EXPORT objects/cars/cars_bus_blue.obj cars/cars_bus_blue.obj
+EXPORT objects/cars/cars_bus_green.obj cars/cars_bus_green.obj
+EXPORT objects/cars/cars_bus_yellow.obj cars/cars_bus_yellow.obj
+EXPORT objects/cars/cars_fiat_panda.obj cars/cars_fiat_panda.obj
+EXPORT objects/cars/cars_ford_transit.obj cars/cars_ford_transit.obj
+EXPORT objects/cars/cars_mercedes_e_class.obj cars/cars_mercedes_e_class.obj
+EXPORT objects/cars/cars_mercedes_truck.obj cars/cars_mercedes_truck.obj
+EXPORT objects/cars/cars_mercedes_vaneo.obj cars/cars_mercedes_vaneo.obj
+EXPORT objects/cars/cars_renault_5_trafic.obj cars/cars_renault_5_trafic.obj
+EXPORT objects/cars/cars_volvo_v40.obj cars/cars_volvo_v40.obj
+EXPORT objects/cars/cars_vw_golf.obj cars/cars_vw_golf.obj
+EXPORT objects/cars/cars_vw_polo.obj cars/cars_vw_polo.obj
 EXPORT objects/commercial/EU/CH/COM_15.00x10.00x15.00_CH.obj commercial/EU/CH/COM_15.00x10.00x15.00_CH.obj
 EXPORT objects/commercial/EU/CH/COM_17.06x17.00x11.00_CH.obj commercial/EU/CH/COM_17.06x17.00x11.00_CH.obj
 EXPORT objects/commercial/EU/CH/COM_20.00x20.00x14.00_CH.obj commercial/EU/CH/COM_20.00x20.00x14.00_CH.obj
@@ -175,6 +189,10 @@ EXPORT objects/obstacles/R_Tower_GRN_65m.obj obstacles/R_Tower_GRN_65m.obj
 EXPORT objects/obstacles/R_Tower_SAT_107m.obj obstacles/R_Tower_SAT_107m.obj
 EXPORT objects/obstacles/Water_Tower_3.obj obstacles/Water_Tower_3.obj
 EXPORT objects/obstacles/powerline_tower_tall.obj obstacles/powerline_tower_tall.obj
+EXPORT objects/roads/30Limit.obj roads/30Limit.obj
+EXPORT objects/roads/50Limit.obj roads/50Limit.obj
+EXPORT objects/roads/Stop.obj roads/Stop.obj
+EXPORT objects/roads/Yield.obj roads/Yield.obj
 EXPORT objects/supermarkets/RET_64.00x32.00_LIDL_PL.obj supermarkets/RET_64.00x32.00_LIDL_PL.obj
 EXPORT objects/uwespeed/aegaen/R(frame)_16.8x21.0_13.obj uwespeed/aegaen/R(frame)_16.8x21.0_13.obj
 EXPORT objects/uwespeed/aegaen/R(frame)_16.8x21.0_14.obj uwespeed/aegaen/R(frame)_16.8x21.0_14.obj
