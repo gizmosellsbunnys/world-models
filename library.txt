@@ -2,7 +2,7 @@ A
 800
 LIBRARY
 
-# World2XPlane Model Library t
+# World2XPlane Model Library
 
 EXPORT objects/cars/car_mercedes_sprinter.obj cars/car_mercedes_sprinter.obj
 EXPORT objects/cars/cars_bmw_3_touring.obj cars/cars_bmw_3_touring.obj
@@ -44,6 +44,38 @@ EXPORT objects/commercial/EU/RET_Biedronka_25.3x38.5_PL.obj commercial/EU/RET_Bi
 EXPORT objects/decorations/hay.obj decorations/hay.obj
 EXPORT objects/houses/EU/AT/R_12x12_AT.obj houses/EU/AT/R_12x12_AT.obj
 EXPORT objects/houses/EU/AT/R_26.50x27.00_AT.obj houses/EU/AT/R_26.50x27.00_AT.obj
+EXPORT objects/houses/EU/BE/res_06x05_blackroof_1.obj houses/EU/BE/res_06x05_blackroof_1.obj
+EXPORT objects/houses/EU/BE/res_06x05_blackroof_2.obj houses/EU/BE/res_06x05_blackroof_2.obj
+EXPORT objects/houses/EU/BE/res_06x05_blackroof_3.obj houses/EU/BE/res_06x05_blackroof_3.obj
+EXPORT objects/houses/EU/BE/res_06x05_blackroof_4.obj houses/EU/BE/res_06x05_blackroof_4.obj
+EXPORT objects/houses/EU/BE/res_06x05_redroof_1.obj houses/EU/BE/res_06x05_redroof_1.obj
+EXPORT objects/houses/EU/BE/res_06x05_redroof_2.obj houses/EU/BE/res_06x05_redroof_2.obj
+EXPORT objects/houses/EU/BE/res_06x05_redroof_3.obj houses/EU/BE/res_06x05_redroof_3.obj
+EXPORT objects/houses/EU/BE/res_06x05_redroof_4.obj houses/EU/BE/res_06x05_redroof_4.obj
+EXPORT objects/houses/EU/BE/res_07x05_blackroof_1.obj houses/EU/BE/res_07x05_blackroof_1.obj
+EXPORT objects/houses/EU/BE/res_07x05_blackroof_2.obj houses/EU/BE/res_07x05_blackroof_2.obj
+EXPORT objects/houses/EU/BE/res_07x05_blackroof_3.obj houses/EU/BE/res_07x05_blackroof_3.obj
+EXPORT objects/houses/EU/BE/res_07x05_blackroof_4.obj houses/EU/BE/res_07x05_blackroof_4.obj
+EXPORT objects/houses/EU/BE/res_07x05_redroof_1.obj houses/EU/BE/res_07x05_redroof_1.obj
+EXPORT objects/houses/EU/BE/res_07x05_redroof_2.obj houses/EU/BE/res_07x05_redroof_2.obj
+EXPORT objects/houses/EU/BE/res_07x05_redroof_3.obj houses/EU/BE/res_07x05_redroof_3.obj
+EXPORT objects/houses/EU/BE/res_07x05_redroof_4.obj houses/EU/BE/res_07x05_redroof_4.obj
+EXPORT objects/houses/EU/BE/res_07x06_blackroof_1.obj houses/EU/BE/res_07x06_blackroof_1.obj
+EXPORT objects/houses/EU/BE/res_07x06_blackroof_2.obj houses/EU/BE/res_07x06_blackroof_2.obj
+EXPORT objects/houses/EU/BE/res_07x06_blackroof_3.obj houses/EU/BE/res_07x06_blackroof_3.obj
+EXPORT objects/houses/EU/BE/res_07x06_blackroof_4.obj houses/EU/BE/res_07x06_blackroof_4.obj
+EXPORT objects/houses/EU/BE/res_07x06_redroof_1.obj houses/EU/BE/res_07x06_redroof_1.obj
+EXPORT objects/houses/EU/BE/res_07x06_redroof_2.obj houses/EU/BE/res_07x06_redroof_2.obj
+EXPORT objects/houses/EU/BE/res_07x06_redroof_3.obj houses/EU/BE/res_07x06_redroof_3.obj
+EXPORT objects/houses/EU/BE/res_07x06_redroof_4.obj houses/EU/BE/res_07x06_redroof_4.obj
+EXPORT objects/houses/EU/BE/res_08x06_blackroof_1.obj houses/EU/BE/res_08x06_blackroof_1.obj
+EXPORT objects/houses/EU/BE/res_08x06_blackroof_2.obj houses/EU/BE/res_08x06_blackroof_2.obj
+EXPORT objects/houses/EU/BE/res_08x06_blackroof_3.obj houses/EU/BE/res_08x06_blackroof_3.obj
+EXPORT objects/houses/EU/BE/res_08x06_blackroof_4.obj houses/EU/BE/res_08x06_blackroof_4.obj
+EXPORT objects/houses/EU/BE/res_08x06_redroof_1.obj houses/EU/BE/res_08x06_redroof_1.obj
+EXPORT objects/houses/EU/BE/res_08x06_redroof_2.obj houses/EU/BE/res_08x06_redroof_2.obj
+EXPORT objects/houses/EU/BE/res_08x06_redroof_3.obj houses/EU/BE/res_08x06_redroof_3.obj
+EXPORT objects/houses/EU/BE/res_08x06_redroof_4.obj houses/EU/BE/res_08x06_redroof_4.obj
 EXPORT objects/houses/EU/BlackRoof_R_11.00x9.00.obj houses/EU/BlackRoof_R_11.00x9.00.obj
 EXPORT objects/houses/EU/BlackRoofs_R_11.5x9.5_PL.obj houses/EU/BlackRoofs_R_11.5x9.5_PL.obj
 EXPORT objects/houses/EU/BlackRoofs_R_13.4x12.6_PL.obj houses/EU/BlackRoofs_R_13.4x12.6_PL.obj
@@ -1117,35 +1149,3 @@ EXPORT objects/uwespeed/germany/RES_99.0x28.0_0.obj_0.obj uwespeed/germany/RES_9
 EXPORT objects/uwespeed/germany/RES_99.0x31.0_0.obj_0.obj uwespeed/germany/RES_99.0x31.0_0.obj_0.obj
 EXPORT objects/uwespeed/germany/RES_99.0x34.0_0.obj_0.obj uwespeed/germany/RES_99.0x34.0_0.obj_0.obj
 EXPORT objects/uwespeed/germany/RES_99.0x37.0_0.obj_0.obj uwespeed/germany/RES_99.0x37.0_0.obj_0.obj
-EXPORT objects/houses/EU/BE/res_08x06_blackroof_1.obj houses/EU/BE/res_08x06_blackroof_1.obj 
-EXPORT objects/houses/EU/BE/res_08x06_blackroof_2.obj houses/EU/BE/res_08x06_blackroof_2.obj
-EXPORT objects/houses/EU/BE/res_08x06_blackroof_3.obj houses/EU/BE/res_08x06_blackroof_3.obj
-EXPORT objects/houses/EU/BE/res_08x06_blackroof_4.obj houses/EU/BE/res_08x06_blackroof_4.obj
-EXPORT objects/houses/EU/BE/res_08x06_redroof_1.obj houses/EU/BE/res_08x06_redroof_1.obj
-EXPORT objects/houses/EU/BE/res_08x06_redroof_3.obj houses/EU/BE/res_08x06_redroof_2.obj
-EXPORT objects/houses/EU/BE/res_08x06_redroof_2.obj houses/EU/BE/res_08x06_redroof_3.obj
-EXPORT objects/houses/EU/BE/res_08x06_redroof_4.obj houses/EU/BE/res_08x06_redroof_4.obj
-EXPORT objects/houses/EU/BE/res_07x06_blackroof_1.obj houses/EU/BE/res_07x06_blackroof_1.obj 
-EXPORT objects/houses/EU/BE/res_07x06_blackroof_2.obj houses/EU/BE/res_07x06_blackroof_2.obj
-EXPORT objects/houses/EU/BE/res_07x06_blackroof_3.obj houses/EU/BE/res_07x06_blackroof_3.obj
-EXPORT objects/houses/EU/BE/res_07x06_blackroof_4.obj houses/EU/BE/res_07x06_blackroof_4.obj
-EXPORT objects/houses/EU/BE/res_07x06_redroof_1.obj houses/EU/BE/res_07x06_redroof_1.obj
-EXPORT objects/houses/EU/BE/res_07x06_redroof_3.obj houses/EU/BE/res_07x06_redroof_2.obj
-EXPORT objects/houses/EU/BE/res_07x06_redroof_2.obj houses/EU/BE/res_07x06_redroof_3.obj
-EXPORT objects/houses/EU/BE/res_07x06_redroof_4.obj houses/EU/BE/res_07x06_redroof_4.obj
-EXPORT objects/houses/EU/BE/res_07x05_blackroof_1.obj houses/EU/BE/res_07x05_blackroof_1.obj 
-EXPORT objects/houses/EU/BE/res_07x05_blackroof_2.obj houses/EU/BE/res_07x05_blackroof_2.obj
-EXPORT objects/houses/EU/BE/res_07x05_blackroof_3.obj houses/EU/BE/res_07x05_blackroof_3.obj
-EXPORT objects/houses/EU/BE/res_07x05_blackroof_4.obj houses/EU/BE/res_07x05_blackroof_4.obj
-EXPORT objects/houses/EU/BE/res_07x05_redroof_1.obj houses/EU/BE/res_07x05_redroof_1.obj
-EXPORT objects/houses/EU/BE/res_07x05_redroof_3.obj houses/EU/BE/res_07x05_redroof_2.obj
-EXPORT objects/houses/EU/BE/res_07x05_redroof_2.obj houses/EU/BE/res_07x05_redroof_3.obj
-EXPORT objects/houses/EU/BE/res_07x05_redroof_4.obj houses/EU/BE/res_07x05_redroof_4.obj
-EXPORT objects/houses/EU/BE/res_06x05_blackroof_1.obj houses/EU/BE/res_06x05_blackroof_1.obj 
-EXPORT objects/houses/EU/BE/res_06x05_blackroof_2.obj houses/EU/BE/res_06x05_blackroof_2.obj
-EXPORT objects/houses/EU/BE/res_06x05_blackroof_3.obj houses/EU/BE/res_06x05_blackroof_3.obj
-EXPORT objects/houses/EU/BE/res_06x05_blackroof_4.obj houses/EU/BE/res_06x05_blackroof_4.obj
-EXPORT objects/houses/EU/BE/res_06x05_redroof_1.obj houses/EU/BE/res_06x05_redroof_1.obj
-EXPORT objects/houses/EU/BE/res_06x05_redroof_3.obj houses/EU/BE/res_06x05_redroof_2.obj
-EXPORT objects/houses/EU/BE/res_06x05_redroof_2.obj houses/EU/BE/res_06x05_redroof_3.obj
-EXPORT objects/houses/EU/BE/res_06x05_redroof_4.obj houses/EU/BE/res_06x05_redroof_4.obj
