@@ -150,6 +150,7 @@ EXPORT objects/houses/EU/NL/R_16.5x8.5_NL.obj houses/EU/NL/R_16.5x8.5_NL.obj
 EXPORT objects/houses/EU/NL/R_19.5x9.5_NL.obj houses/EU/NL/R_19.5x9.5_NL.obj
 EXPORT objects/houses/EU/NL/R_19.65x7.64_NL_1.obj houses/EU/NL/R_19.65x7.64_NL_1.obj
 EXPORT objects/houses/EU/NL/R_38.00x7.64_NL_1.obj houses/EU/NL/R_38.00x7.64_NL_1.obj
+EXPORT objects/houses/EU/NL/R_7.00x7.00.obj houses/EU/NL/R_7.00x7.00.obj
 EXPORT objects/houses/EU/NL/R_7.82x9.67_NL_1.obj houses/EU/NL/R_7.82x9.67_NL_1.obj
 EXPORT objects/houses/EU/NL/R_7.82x9.67_NL_2.obj houses/EU/NL/R_7.82x9.67_NL_2.obj
 EXPORT objects/houses/EU/NL/R_8.5x11_NL.obj houses/EU/NL/R_8.5x11_NL.obj

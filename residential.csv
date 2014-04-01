@@ -274,6 +274,7 @@ width,length,type,region,model,height-min,height-max,stories,shape
 10.0,10.00,residential,NL;DE;GB,objects/houses/EU/NL/R_10x10_NL_2.obj,,,2,SQ
 8.5,11.00,residential,NL;DE;GB,objects/houses/EU/NL/R_8.5x11_NL.obj,,,2,SQ
 16.5,8.50,residential,NL;DE;GB,objects/houses/EU/NL/R_16.5x8.5_NL.obj,,,2,SQ
+7.00,7.00,residential,NL;DE;,objects/houses/EU/NL/R_7.00x7.00.obj,,,2,SQ
 7.2,9.67,residential,NL;DE,objects/houses/EU/NL/R_7.82x9.67_NL_1.obj,,,2,SQ
 7.2,9.67,residential,NL;DE,objects/houses/EU/NL/R_7.82x9.67_NL_2.obj,,,2,SQ
 14.00,11.00,residential,NL;DE;GB,objects/houses/EU/NL/R_14x11_NL.obj,,,2,SQ
