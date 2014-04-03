@@ -223,6 +223,10 @@ EXPORT objects/obstacles/R_Tower_GRN_65m.obj obstacles/R_Tower_GRN_65m.obj
 EXPORT objects/obstacles/R_Tower_SAT_107m.obj obstacles/R_Tower_SAT_107m.obj
 EXPORT objects/obstacles/Water_Tower_3.obj obstacles/Water_Tower_3.obj
 EXPORT objects/obstacles/powerline_tower_tall.obj obstacles/powerline_tower_tall.obj
+EXPORT objects/obstacles/cableway.obj obstacles/cableway.obj
+EXPORT objects/obstacles/power-pole.obj obstacles/power-pole.obj
+EXPORT objects/obstacles/ski-lift.obj obstacles/ski-lift.obj
+EXPORT objects/obstacles/ski-tow.obj obstacles/ski-tow.obj
 EXPORT objects/roads/30Limit.obj roads/30Limit.obj
 EXPORT objects/roads/50Limit.obj roads/50Limit.obj
 EXPORT objects/roads/Stop.obj roads/Stop.obj
@@ -1150,3 +1154,4 @@ EXPORT objects/uwespeed/germany/RES_99.0x28.0_0.obj_0.obj uwespeed/germany/RES_9
 EXPORT objects/uwespeed/germany/RES_99.0x31.0_0.obj_0.obj uwespeed/germany/RES_99.0x31.0_0.obj_0.obj
 EXPORT objects/uwespeed/germany/RES_99.0x34.0_0.obj_0.obj uwespeed/germany/RES_99.0x34.0_0.obj_0.obj
 EXPORT objects/uwespeed/germany/RES_99.0x37.0_0.obj_0.obj uwespeed/germany/RES_99.0x37.0_0.obj_0.obj
+EXPORT network/w2xp.net w2xp.net
