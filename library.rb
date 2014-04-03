@@ -23,6 +23,6 @@ File.open("library.txt","w") do |f|
    
     
   end
-
+  f.write("EXPORT network/w2xp.net w2xp.net\n")
 
 end
