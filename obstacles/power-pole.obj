@@ -2,8 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	../textures/nz-buildings2.png
-TEXTURE_DRAPED	../textures/nz_ground1.png
+TEXTURE	../textures/roads.png
 POINT_COUNTS	52	0	0	72
 
 VT	1.000000	10.070000	0.070000	0.000000	1.000000	0.000000	0.651367	0.242188
