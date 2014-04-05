@@ -18,6 +18,7 @@ EXPORT objects/cars/cars_renault_5_trafic.obj cars/cars_renault_5_trafic.obj
 EXPORT objects/cars/cars_volvo_v40.obj cars/cars_volvo_v40.obj
 EXPORT objects/cars/cars_vw_golf.obj cars/cars_vw_golf.obj
 EXPORT objects/cars/cars_vw_polo.obj cars/cars_vw_polo.obj
+EXPORT objects/commercial/BurgerKing_restaurant_28.77x18.19.obj commercial/BurgerKing_restaurant_28.77x18.19.obj
 EXPORT objects/commercial/EU/CH/COM_15.00x10.00x15.00_CH.obj commercial/EU/CH/COM_15.00x10.00x15.00_CH.obj
 EXPORT objects/commercial/EU/CH/COM_17.06x17.00x11.00_CH.obj commercial/EU/CH/COM_17.06x17.00x11.00_CH.obj
 EXPORT objects/commercial/EU/CH/COM_20.00x20.00x14.00_CH.obj commercial/EU/CH/COM_20.00x20.00x14.00_CH.obj
@@ -41,6 +42,8 @@ EXPORT objects/commercial/EU/COM_22.9x16.7_PL.obj commercial/EU/COM_22.9x16.7_PL
 EXPORT objects/commercial/EU/COM_23.0x18.8_PL.obj commercial/EU/COM_23.0x18.8_PL.obj
 EXPORT objects/commercial/EU/COM_35.8x13.8_PL.obj commercial/EU/COM_35.8x13.8_PL.obj
 EXPORT objects/commercial/EU/RET_Biedronka_25.3x38.5_PL.obj commercial/EU/RET_Biedronka_25.3x38.5_PL.obj
+EXPORT objects/commercial/mcdonalds_27.5x21.93.obj commercial/mcdonalds_27.5x21.93.obj
+EXPORT objects/commercial/pizzahut_16.00x27.69.obj commercial/pizzahut_16.00x27.69.obj
 EXPORT objects/decorations/hay.obj decorations/hay.obj
 EXPORT objects/decorations/moose/moosebul.obj decorations/moose/moosebul.obj
 EXPORT objects/decorations/moose/moosecal.obj decorations/moose/moosecal.obj

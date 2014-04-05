@@ -26,3 +26,11 @@ width,length,type,region,model,height-min,height-max,stories,shape
 22.6,13.3,commercial,CE;PL;DE,objects/houses/EU/PL/R_22.6x13.3_PL.obj,,,3,SQ
 14.5,25.1,commercial,CE;PL;DE,objects/commercial/EU/COM_14.5x25.1_PL.obj,,,4,SQ
 23.0,18.8,commercial,CE;PL;DE,objects/commercial/EU/COM_23.0x18.8_PL.obj,,,4,SQ
+23.0,18.8,commercial,,objects/commercial/EU/COM_23.0x18.8_PL.obj,,,4,SQ
+28.77,18.19,commercial,,objects/commercial/BurgerKing_restaurant_28.77x18.19.obj,,,,SQ
+27.50,21.93,commercial,,objects/commercial/mcdonalds_27.5x21.93.obj,,,,SQ
+16.00,27.69,commercial,,objects/commercial/pizzahut_16.00x27.69.obj,,,,SQ
+
+
+
+
