@@ -42,6 +42,11 @@ EXPORT objects/commercial/EU/COM_23.0x18.8_PL.obj commercial/EU/COM_23.0x18.8_PL
 EXPORT objects/commercial/EU/COM_35.8x13.8_PL.obj commercial/EU/COM_35.8x13.8_PL.obj
 EXPORT objects/commercial/EU/RET_Biedronka_25.3x38.5_PL.obj commercial/EU/RET_Biedronka_25.3x38.5_PL.obj
 EXPORT objects/decorations/hay.obj decorations/hay.obj
+EXPORT objects/decorations/moose/moosebul.obj decorations/moose/moosebul.obj
+EXPORT objects/decorations/moose/moosecal.obj decorations/moose/moosecal.obj
+EXPORT objects/decorations/moose/moosecow.obj decorations/moose/moosecow.obj
+EXPORT objects/decorations/moose/moosegrp.obj decorations/moose/moosegrp.obj
+EXPORT objects/decorations/sheep.obj decorations/sheep.obj
 EXPORT objects/houses/EU/AT/R_12x12_AT.obj houses/EU/AT/R_12x12_AT.obj
 EXPORT objects/houses/EU/AT/R_26.50x27.00_AT.obj houses/EU/AT/R_26.50x27.00_AT.obj
 EXPORT objects/houses/EU/BE/res_06x05_blackroof_1.obj houses/EU/BE/res_06x05_blackroof_1.obj
@@ -222,9 +227,9 @@ EXPORT objects/obstacles/R_Tower_50m.obj obstacles/R_Tower_50m.obj
 EXPORT objects/obstacles/R_Tower_GRN_65m.obj obstacles/R_Tower_GRN_65m.obj
 EXPORT objects/obstacles/R_Tower_SAT_107m.obj obstacles/R_Tower_SAT_107m.obj
 EXPORT objects/obstacles/Water_Tower_3.obj obstacles/Water_Tower_3.obj
-EXPORT objects/obstacles/powerline_tower_tall.obj obstacles/powerline_tower_tall.obj
 EXPORT objects/obstacles/cableway.obj obstacles/cableway.obj
 EXPORT objects/obstacles/power-pole.obj obstacles/power-pole.obj
+EXPORT objects/obstacles/powerline_tower_tall.obj obstacles/powerline_tower_tall.obj
 EXPORT objects/obstacles/ski-lift.obj obstacles/ski-lift.obj
 EXPORT objects/obstacles/ski-tow.obj obstacles/ski-tow.obj
 EXPORT objects/roads/30Limit.obj roads/30Limit.obj
