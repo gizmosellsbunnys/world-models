@@ -50,6 +50,7 @@ EXPORT objects/decorations/moose/moosecal.obj decorations/moose/moosecal.obj
 EXPORT objects/decorations/moose/moosecow.obj decorations/moose/moosecow.obj
 EXPORT objects/decorations/moose/moosegrp.obj decorations/moose/moosegrp.obj
 EXPORT objects/decorations/sheep.obj decorations/sheep.obj
+EXPORT objects/decorations/spielplatz.obj decorations/spielplatz.obj
 EXPORT objects/houses/EU/AT/R_12x12_AT.obj houses/EU/AT/R_12x12_AT.obj
 EXPORT objects/houses/EU/AT/R_26.50x27.00_AT.obj houses/EU/AT/R_26.50x27.00_AT.obj
 EXPORT objects/houses/EU/BE/res_06x05_blackroof_1.obj houses/EU/BE/res_06x05_blackroof_1.obj
