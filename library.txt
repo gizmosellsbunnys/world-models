@@ -44,6 +44,10 @@ EXPORT objects/commercial/EU/COM_35.8x13.8_PL.obj commercial/EU/COM_35.8x13.8_PL
 EXPORT objects/commercial/EU/RET_Biedronka_25.3x38.5_PL.obj commercial/EU/RET_Biedronka_25.3x38.5_PL.obj
 EXPORT objects/commercial/mcdonalds_27.5x21.93.obj commercial/mcdonalds_27.5x21.93.obj
 EXPORT objects/commercial/pizzahut_16.00x27.69.obj commercial/pizzahut_16.00x27.69.obj
+EXPORT objects/decorations/CaterpillarVehicle_Fra.obj decorations/CaterpillarVehicle_Fra.obj
+EXPORT objects/decorations/CaterpillarVehicle_Fra_static.obj decorations/CaterpillarVehicle_Fra_static.obj
+EXPORT objects/decorations/CaterpillarVehicle_USA.obj decorations/CaterpillarVehicle_USA.obj
+EXPORT objects/decorations/CaterpillarVehicle_USA_static.obj decorations/CaterpillarVehicle_USA_static.obj
 EXPORT objects/decorations/hay.obj decorations/hay.obj
 EXPORT objects/decorations/moose/moosebul.obj decorations/moose/moosebul.obj
 EXPORT objects/decorations/moose/moosecal.obj decorations/moose/moosecal.obj
@@ -51,6 +55,8 @@ EXPORT objects/decorations/moose/moosecow.obj decorations/moose/moosecow.obj
 EXPORT objects/decorations/moose/moosegrp.obj decorations/moose/moosegrp.obj
 EXPORT objects/decorations/sheep.obj decorations/sheep.obj
 EXPORT objects/decorations/spielplatz.obj decorations/spielplatz.obj
+EXPORT objects/decorations/tracteur_dynamic.obj decorations/tracteur_dynamic.obj
+EXPORT objects/decorations/tracteur_static.obj decorations/tracteur_static.obj
 EXPORT objects/houses/EU/AT/R_12x12_AT.obj houses/EU/AT/R_12x12_AT.obj
 EXPORT objects/houses/EU/AT/R_26.50x27.00_AT.obj houses/EU/AT/R_26.50x27.00_AT.obj
 EXPORT objects/houses/EU/BE/res_06x05_blackroof_1.obj houses/EU/BE/res_06x05_blackroof_1.obj
