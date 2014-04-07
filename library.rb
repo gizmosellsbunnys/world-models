@@ -7,7 +7,7 @@ Find.find('.') do |path|
 end
 
 paths.each do |path|
-  if path.include?(".obj") || path.include?(".OBJ")
+  if path.include?(".obj") || path.include?(".OBJ") 
     lib = path[2..-1]
     entries << lib
   end
@@ -24,5 +24,22 @@ File.open("library.txt","w") do |f|
     
   end
   f.write("EXPORT network/w2xp.net w2xp.net\n")
+  
+  
+  
+  entries = []
+  paths.each do |path|
+    if path.include?(".fac") || path.include?(".FAC") 
+      lib = path[2..-1]
+      entries << lib
+    end
+  end
+
+  entries.each do |entry|
+    f.write("EXPORT " << "facades/" << entry << " " << entry << "\n");
+  end
 
 end
+
+  
+

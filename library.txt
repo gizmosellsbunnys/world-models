@@ -1170,3 +1170,5 @@ EXPORT objects/uwespeed/germany/RES_99.0x31.0_0.obj_0.obj uwespeed/germany/RES_9
 EXPORT objects/uwespeed/germany/RES_99.0x34.0_0.obj_0.obj uwespeed/germany/RES_99.0x34.0_0.obj_0.obj
 EXPORT objects/uwespeed/germany/RES_99.0x37.0_0.obj_0.obj uwespeed/germany/RES_99.0x37.0_0.obj_0.obj
 EXPORT network/w2xp.net w2xp.net
+EXPORT facades/barriers/fence.fac barriers/fence.fac
+EXPORT facades/barriers/wall.fac barriers/wall.fac
