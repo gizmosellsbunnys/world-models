@@ -49,6 +49,7 @@ EXPORT objects/decorations/CaterpillarVehicle_Fra_static.obj decorations/Caterpi
 EXPORT objects/decorations/CaterpillarVehicle_USA.obj decorations/CaterpillarVehicle_USA.obj
 EXPORT objects/decorations/CaterpillarVehicle_USA_static.obj decorations/CaterpillarVehicle_USA_static.obj
 EXPORT objects/decorations/hay.obj decorations/hay.obj
+EXPORT objects/decorations/hydrant.obj decorations/hydrant.obj
 EXPORT objects/decorations/moose/moosebul.obj decorations/moose/moosebul.obj
 EXPORT objects/decorations/moose/moosecal.obj decorations/moose/moosecal.obj
 EXPORT objects/decorations/moose/moosecow.obj decorations/moose/moosecow.obj
