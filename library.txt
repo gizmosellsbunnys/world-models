@@ -1173,4 +1173,5 @@ EXPORT network/w2xp.net w2xp.net
 EXPORT facades/barriers/fence.fac barriers/fence.fac
 EXPORT facades/barriers/fence1.fac barriers/fence1.fac
 EXPORT facades/barriers/fence2.fac barriers/fence2.fac
+EXPORT facades/barriers/fence3.fac barriers/fence3.fac
 EXPORT facades/barriers/wall.fac barriers/wall.fac
