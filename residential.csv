@@ -387,3 +387,6 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 8.00,6.00,residential,CE;BE,objects/houses/EU/BE/res_08x06_redroof_2.obj,,,2,SQ,W2XP
 8.00,6.00,residential,CE;BE,objects/houses/EU/BE/res_08x06_redroof_3.obj,,,2,SQ,W2XP
 8.00,6.00,residential,CE;BE,objects/houses/EU/BE/res_08x06_redroof_4.obj,,,2,SQ,W2XP
+12.00,8.00,residential,DE;FR;NL;BE,objects/houses/EU/DE/R_12.0x8.0_DE_1.obj,,,1,SQ,W2XP
+12.00,8.00,residential,DE;FR;NL;BE,objects/houses/EU/DE/R_12.0x8.0_DE_2.obj,,,1,SQ,W2XP
+
