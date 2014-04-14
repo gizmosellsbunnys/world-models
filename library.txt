@@ -580,6 +580,8 @@ EXPORT objects/houses/EU/R_23.20x10.80_PL.obj houses/EU/R_23.20x10.80_PL.obj
 EXPORT objects/houses/EU/R_32.00x11.40x22.42_PL.obj houses/EU/R_32.00x11.40x22.42_PL.obj
 EXPORT objects/houses/EU/R_32.70x9.28_PL.obj houses/EU/R_32.70x9.28_PL.obj
 EXPORT objects/houses/EU/R_35.35x9.45_3PL.obj houses/EU/R_35.35x9.45_3PL.obj
+EXPORT objects/houses/EU/R_61.00x13.00_1.obj houses/EU/R_61.00x13.00_1.obj
+EXPORT objects/houses/EU/R_61.00x13.00_2.obj houses/EU/R_61.00x13.00_2.obj
 EXPORT objects/houses/EU/R_61.70x11.40x22.42_PL.obj houses/EU/R_61.70x11.40x22.42_PL.obj
 EXPORT objects/houses/EU/R_63.90x12.5_5PL.obj houses/EU/R_63.90x12.5_5PL.obj
 EXPORT objects/houses/EU/R_8.00x20.00_1.obj houses/EU/R_8.00x20.00_1.obj

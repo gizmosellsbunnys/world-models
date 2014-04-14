@@ -193,10 +193,8 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 60.0,14.0,residential,CE,lib/g_buildings/nbg.generic.apartmentblock.60a.obj,,,,SQ,FF
 60.0,14.0,residential,CE,lib/g_buildings/nbg.generic.brownsstone.60.obj,,,,SQ,FF
 60.0,14.0,residential,CE,lib/g_buildings/nbg.generic.brownsstone.60a.obj,,,,SQ,FF
-61.0,13.0,residential,CE,lib/g_buildings/wohnhaus.vier.beige.obj,,,,SQ,FF
-61.0,13.0,residential,CE,lib/g_buildings/wohnhaus.vier.blau.obj,,,,SQ,FF
-61.0,13.0,residential,CE,lib/g_buildings/wohnhaus.vier.gruen.obj,,,,SQ,FF
-61.0,13.0,residential,CE,lib/g_buildings/wohnhaus.vier.rot.obj,,,,SQ,FF
+61.0,13.0,residential,CE,objects/houses/EU/R_61.00x13.00_1.obj,,,,SQ,W2XP
+61.0,13.0,residential,CE,objects/houses/EU/R_61.00x13.00_2.obj,,,,SQ,W2XP
 7.55,7.88,residential,GB,objects/houses/EU/GB/R_7.55x7.88_UK_1.obj,,,,SQ,W2XP
 7.55,7.88,residential,GB,objects/houses/EU/GB/R_7.55x7.88_UK_2.obj,,,,SQ,W2XP
 7.65,10.4,residential,GB,objects/houses/EU/GB/R_7.65x10.4_UK_1.obj,,,,SQ,W2XP
