@@ -210,10 +210,10 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 8.0,25.0,residential,CE,objects/houses/EU/R_8.00x25.00_2.obj,,,1,SQ,W2XP
 8.0,25.0,residential,CE,objects/houses/EU/R_8.00x25.00_3.obj,,,1,SQ,W2XP
 8.0,25.0,residential,CE,objects/houses/EU/R_8.00x25.00_4.obj,,,1,SQ,W2XP
-8.0,30.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_30a.obj,,,1,SQ,R2
-8.0,30.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_30b.obj,,,1,SQ,R2
-8.0,30.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_30c.obj,,,1,SQ,R2
-8.0,30.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_30d.obj,,,1,SQ,R2
+8.0,30.0,residential,CE,objects/houses/EU/R_8.00x30.00_1.obj,,,1,SQ,W2XP
+8.0,30.0,residential,CE,objects/houses/EU/R_8.00x30.00_2.obj,,,1,SQ,W2XP
+8.0,30.0,residential,CE,objects/houses/EU/R_8.00x30.00_3.obj,,,1,SQ,W2XP
+8.0,30.0,residential,CE,objects/houses/EU/R_8.00x30.00_4.obj,,,1,SQ,W2XP
 8.0,35.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_35a.obj,,,1,SQ,R2
 8.0,35.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_35b.obj,,,1,SQ,R2
 8.0,35.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_35c.obj,,,1,SQ,R2
