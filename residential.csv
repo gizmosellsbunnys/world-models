@@ -202,14 +202,14 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 7.65,10.4,residential,GB,objects/houses/EU/GB/R_7.65x10.4_UK_1.obj,,,,SQ,W2XP
 8.0,10.0,residential,CE,R2_Library/budovy/domky/1-2p/domek_1p_10a.obj,,,,SQ,R2
 8.0,10.0,residential,CE,R2_Library/budovy/domky/1-2p/domek_1p_10b.obj,,,,SQ,R2
-8.0,20.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_20a.obj,,,1,SQ,R2
-8.0,20.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_20b.obj,,,1,SQ,R2
-8.0,20.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_20c.obj,,,1,SQ,R2
-8.0,20.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_20d.obj,,,1,SQ,R2
-8.0,25.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_25a.obj,,,1,SQ,R2
-8.0,25.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_25b.obj,,,1,SQ,R2
-8.0,25.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_25c.obj,,,1,SQ,R2
-8.0,25.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_25d.obj,,,1,SQ,R2
+8.0,20.0,residential,CE,objects/houses/EU/R_8.00x20.00_1.obj,,,1,SQ,W2XP
+8.0,20.0,residential,CE,objects/houses/EU/R_8.00x20.00_2.obj,,,1,SQ,W2XP
+8.0,20.0,residential,CE,objects/houses/EU/R_8.00x20.00_3.obj,,,1,SQ,W2XP
+8.0,20.0,residential,CE,objects/houses/EU/R_8.00x20.00_4.obj,,,1,SQ,W2XP
+8.0,25.0,residential,CE,objects/houses/EU/R_8.00x25.00_1.obj,,,1,SQ,W2XP
+8.0,25.0,residential,CE,objects/houses/EU/R_8.00x25.00_2.obj,,,1,SQ,W2XP
+8.0,25.0,residential,CE,objects/houses/EU/R_8.00x25.00_3.obj,,,1,SQ,W2XP
+8.0,25.0,residential,CE,objects/houses/EU/R_8.00x25.00_4.obj,,,1,SQ,W2XP
 8.0,30.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_30a.obj,,,1,SQ,R2
 8.0,30.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_30b.obj,,,1,SQ,R2
 8.0,30.0,residential,CE,R2_Library/budovy/domky/podelne/domekPodelny_30c.obj,,,1,SQ,R2
@@ -358,7 +358,6 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 12.00,8.00,residential,DE;FR;NL;BE,objects/houses/EU/DE/R_12.0x8.0_DE_1.obj,,,1,SQ,W2XP
 12.00,8.00,residential,DE;FR;NL;BE,objects/houses/EU/DE/R_12.0x8.0_DE_2.obj,,,1,SQ,W2XP
 22.60,16.40,residential,DE;PL,objects/houses/EU/DE/COM_22.6x16.4_DE.obj,,,2,SQ,W2XP
-
 5.0,6.0,residential,CE,objects/Blacky75/New-Black/RES_06x05_TypeNew_RoofBlack-1.obj,,,,SQ,Blacky75
 5.0,6.0,residential,CE,objects/Blacky75/New-Black/RES_06x05_TypeNew_RoofBlack-2.obj,,,,SQ,Blacky75
 5.0,6.0,residential,CE,objects/Blacky75/New-Black/RES_06x05_TypeNew_RoofBlack-3.obj,,,,SQ,Blacky75
@@ -456,7 +455,6 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 11.0,11.0,residential,CE,objects/Blacky75/New-Black/RES_11x11_TypeNew_RoofBlack-2.obj,,,,SQ,Blacky75
 11.0,11.0,residential,CE,objects/Blacky75/New-Black/RES_11x11_TypeNew_RoofBlack-3.obj,,,,SQ,Blacky75
 11.0,11.0,residential,CE,objects/Blacky75/New-Black/RES_11x11_TypeNew_RoofBlack-4.obj,,,,SQ,Blacky75
-
 5.0,6.0,residential,CE,objects/Blacky75/New-Red/RES_06x05_TypeNew_RoofRed-1.obj,,,,SQ,Blacky75
 5.0,6.0,residential,CE,objects/Blacky75/New-Red/RES_06x05_TypeNew_RoofRed-2.obj,,,,SQ,Blacky75
 5.0,6.0,residential,CE,objects/Blacky75/New-Red/RES_06x05_TypeNew_RoofRed-3.obj,,,,SQ,Blacky75
@@ -554,7 +552,6 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 11.0,11.0,residential,CE,objects/Blacky75/New-Red/RES_11x11_TypeNew_RoofRed-2.obj,,,,SQ,Blacky75
 11.0,11.0,residential,CE,objects/Blacky75/New-Red/RES_11x11_TypeNew_RoofRed-3.obj,,,,SQ,Blacky75
 11.0,11.0,residential,CE,objects/Blacky75/New-Red/RES_11x11_TypeNew_RoofRed-4.obj,,,,SQ,Blacky75
-
 5.0,6.0,residential,CE,objects/Blacky75/New-Black/RES_06x05_TypeNew1_RoofBlack-1.obj,,,,SQ,Blacky75
 5.0,6.0,residential,CE,objects/Blacky75/New-Black/RES_06x05_TypeNew1_RoofBlack-2.obj,,,,SQ,Blacky75
 5.0,6.0,residential,CE,objects/Blacky75/New-Black/RES_06x05_TypeNew1_RoofBlack-3.obj,,,,SQ,Blacky75
@@ -652,7 +649,6 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 11.0,11.0,residential,CE,objects/Blacky75/New-Black/RES_11x11_TypeNew1_RoofBlack-2.obj,,,,SQ,Blacky75
 11.0,11.0,residential,CE,objects/Blacky75/New-Black/RES_11x11_TypeNew1_RoofBlack-3.obj,,,,SQ,Blacky75
 11.0,11.0,residential,CE,objects/Blacky75/New-Black/RES_11x11_TypeNew1_RoofBlack-4.obj,,,,SQ,Blacky75
-
 5.0,6.0,residential,CE,objects/Blacky75/New-Red/RES_06x05_TypeNew1_RoofRed-1.obj,,,,SQ,Blacky75
 5.0,6.0,residential,CE,objects/Blacky75/New-Red/RES_06x05_TypeNew1_RoofRed-2.obj,,,,SQ,Blacky75
 5.0,6.0,residential,CE,objects/Blacky75/New-Red/RES_06x05_TypeNew1_RoofRed-3.obj,,,,SQ,Blacky75
