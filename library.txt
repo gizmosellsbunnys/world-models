@@ -601,6 +601,8 @@ EXPORT objects/houses/EU/R_8.55x8.77_PL_1.obj houses/EU/R_8.55x8.77_PL_1.obj
 EXPORT objects/houses/EU/R_8.55x8.77_PL_2.obj houses/EU/R_8.55x8.77_PL_2.obj
 EXPORT objects/houses/EU/R_9.15x11.90_PL.obj houses/EU/R_9.15x11.90_PL.obj
 EXPORT objects/houses/EU/R_9.98x10.80_PL.obj houses/EU/R_9.98x10.80_PL.obj
+EXPORT objects/industrial/EU/IN_22.40x56.00.obj industrial/EU/IN_22.40x56.00.obj
+EXPORT objects/industrial/EU/IN_29.00x12.70.obj industrial/EU/IN_29.00x12.70.obj
 EXPORT objects/landmarks/UA/Hram-Hram_0.obj landmarks/UA/Hram-Hram_0.obj
 EXPORT objects/landmarks/UA/MON.obj landmarks/UA/MON.obj
 EXPORT objects/landmarks/UA/armor.obj landmarks/UA/armor.obj
