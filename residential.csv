@@ -123,7 +123,6 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 12.0,37.0,residential,CE,R2_Library/budovy/bytove/panel_12m/panA12_12p_37m_2s.obj,34,,12,SQ,R2
 12.0,56.0,residential,CE,R2_Library/budovy/bytove/panel_12m/panA12_12p_56m_3s.obj,34,,12,SQ,R2
 12.0,75.0,residential,CE,R2_Library/budovy/bytove/panel_12m/panA12_12p_75m_4s.obj,34,,12,SQ,R2
-12.0,19.0,residential,CE,R2_Library/budovy/bytove/panel_12m/panA12_4p_19m_1s.obj,10,,4,SQ,R2
 12.0,37.0,residential,CE,R2_Library/budovy/bytove/panel_12m/panA12_4p_37m_2s.obj,10,,4,SQ,R2
 12.0,56.0,residential,CE,R2_Library/budovy/bytove/panel_12m/panA12_4p_56m_3s.obj,10,,4,SQ,R2
 12.0,19.0,residential,CE,R2_Library/budovy/bytove/panel_12m/panA12_6p_19m_1s.obj,17,,6,SQ,R2
@@ -303,6 +302,18 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 35.00,8.00,residential,CE,objects/houses/EU/RES_35.0x8.0_RED4.obj,,,1,SQ,W2XP,Red
 35.00,8.00,residential,CE,objects/houses/EU/RES_35.0x8.0_RED5.obj,,,1,SQ,W2XP,Red;Old
 35.00,8.00,residential,CE,objects/houses/EU/RES_35.0x8.0_RED6.obj,,,1,SQ,W2XP,Red;Old
+19.00,12.00,residential,CE,RES_19.00x12.00_GREY1.obj,,,1,SQ,W2XP,Grey;Old
+19.00,12.00,residential,CE,RES_19.00x12.00_GREY2.obj,,,1,SQ,W2XP,Grey;Old
+19.00,12.00,residential,CE,RES_19.00x12.00_GREY3.obj,,,1,SQ,W2XP,Grey
+19.00,12.00,residential,CE,RES_19.00x12.00_GREY4.obj,,,1,SQ,W2XP,Grey
+19.00,12.00,residential,CE,RES_19.00x12.00_GREY5.obj,,,1,SQ,W2XP,Grey
+19.00,12.00,residential,CE,RES_19.00x12.00_GREY6.obj,,,1,SQ,W2XP,Grey
+19.00,12.00,residential,CE,RES_19.00x12.00_RED1.obj,,,1,SQ,W2XP,Red;Old
+19.00,12.00,residential,CE,RES_19.00x12.00_RED2.obj,,,1,SQ,W2XP,Red;Old
+19.00,12.00,residential,CE,RES_19.00x12.00_RED3.obj,,,1,SQ,W2XP,Red
+19.00,12.00,residential,CE,RES_19.00x12.00_RED4.obj,,,1,SQ,W2XP,Red
+19.00,12.00,residential,CE,RES_19.00x12.00_RED5.obj,,,1,SQ,W2XP,Red
+19.00,12.00,residential,CE,RES_19.00x12.00_RED6.obj,,,1,SQ,W2XP,Red
 9.0,8.0,residential,GB,objects/houses/EU/GB/R_9.0x8.0_UK.obj,,,,SQ,W2XP
 9.5,19.0,residential,CE,R2_Library/budovy/domky/1-2p/domek_1p_19a.obj,,,1,SQ,R2
 9.5,19.0,residential,CE,R2_Library/budovy/domky/1-2p/domek_1p_19b.obj,,,1,SQ,R2
