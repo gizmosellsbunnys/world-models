@@ -19,10 +19,7 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 10.0,19.0,residential,CE,R2_Library/budovy/domky/soliterni/domek-2x_10x19d.obj,,,2,SQ,R2
 10.0,19.0,residential,CE,R2_Library/budovy/domky/soliterni/domek-2x_10x19e.obj,,,2,SQ,R2
 10.0,19.0,residential,CE,R2_Library/budovy/domky/soliterni/domek-2x_10x19f.obj,,,2,SQ,R2
-11.0,13.0,residential,CE,R2_Library/budovy/domky/soliterni/plochaStrecha_11x13a.obj,,,2,SQ,R2
-11.0,13.0,residential,CE,R2_Library/budovy/domky/soliterni/plochaStrecha_11x13b.obj,,,2,SQ,R2
-11.0,13.0,residential,CE,R2_Library/budovy/domky/soliterni/plochaStrecha_11x13c.obj,,,2,SQ,R2
-11.0,13.0,residential,CE,R2_Library/budovy/domky/soliterni/plochaStrecha_11x13d.obj,,,2,SQ,R2
+
 13.4,12.60,residential,CE;PL;DE,objects/houses/EU/R_13.4x12.6_PL.obj,,,2,SQ,W2XP
 11.5,10.0,residential,CE,objects/houses/EU/R_11.5x10.0_PL_1.obj,,,2,SQ,W2XP
 11.5,10.0,residential,CE,objects/houses/EU/R_11.5x10.0_PL_2.obj,,,2,SQ,W2XP
@@ -324,6 +321,12 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 42.00,12.00,residential,CE,objects/houses/EU/RES_42.00x12.00_GREY1.obj,,,5,SQL,W2XP,Grey
 42.00,12.00,residential,CE,objects/houses/EU/RES_42.00x12.00_RED1.obj,,,5,SQL,W2XP,Red
 42.00,12.00,residential,CE,objects/houses/EU/RES_42.00x12.00_RED2.obj,,,5,SQL,W2XP,Red
+13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT1.obj,,,1,SQ,W2XP,Flat
+13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT2.obj,,,1,SQ,W2XP,Flat
+13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT3.obj,,,1,SQ,W2XP,Flat
+13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT4.obj,,,1,SQ,W2XP,Flat
+13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT5.obj,,,1,SQ,W2XP,Flat;Old
+13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT6.obj,,,1,SQ,W2XP,Flat;Old
 9.0,8.0,residential,GB,objects/houses/EU/GB/R_9.0x8.0_UK.obj,,,,SQ,W2XP
 9.5,19.0,residential,CE,R2_Library/budovy/domky/1-2p/domek_1p_19a.obj,,,1,SQ,R2
 9.5,19.0,residential,CE,R2_Library/budovy/domky/1-2p/domek_1p_19b.obj,,,1,SQ,R2
