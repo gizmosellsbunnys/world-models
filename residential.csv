@@ -158,7 +158,6 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 16.0,75.0,residential,CE,R2_Library/budovy/bytove/panel_16m/panB16_8p_75m_4s.obj,24,,8,SQ,R2
 19.0,19.0,residential,CE,lib/g_buildings/mfh_19x19.obj,,,,SQ,FF
 20.0,10.0,residential,CE,lib/g_buildings/mfh_20x10.obj,,,,SQ,FF
-28.0,13.0,residential,CE,lib/g_buildings/erl_generic_apartmentblock_30a.obj,,,,SQ,FF
 3.76,7.95,residential,GB,objects/houses/EU/GB/R_3.76x7.95_UK_1.obj,,,,SQ,W2XP
 3.76,7.95,residential,GB,objects/houses/EU/GB/R_3.76x7.95_UK_2.obj,,,,SQ,W2XP
 30.0,14.0,residential,CE,lib/g_buildings/nbg.generic.apartmentblock.30.obj,,,,SQ,FF
@@ -327,6 +326,10 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT4.obj,,,1,SQ,W2XP,Flat
 13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT5.obj,,,1,SQ,W2XP,Flat;Old
 13.0,11.0,residential,CE,objects/houses/EU/RES_13.00x11.00_FLAT6.obj,,,1,SQ,W2XP,Flat;Old
+28.0,13.0,residential,CE,objects/houses/EU/RES_28.00x13.00_GREY1.obj,,,3,SQ,W2XP,Grey
+28.0,13.0,residential,CE,objects/houses/EU/RES_28.00x13.00_GREY2.obj,,,3,SQ,W2XP,Grey
+28.0,13.0,residential,CE,objects/houses/EU/RES_28.00x13.00_RED1.obj,,,3,SQ,W2XP,Red
+28.0,13.0,residential,CE,objects/houses/EU/RES_28.00x13.00_RED2.obj,,,3,SQ,W2XP,Red
 9.0,8.0,residential,GB,objects/houses/EU/GB/R_9.0x8.0_UK.obj,,,,SQ,W2XP
 9.5,19.0,residential,CE,R2_Library/budovy/domky/1-2p/domek_1p_19a.obj,,,1,SQ,R2
 9.5,19.0,residential,CE,R2_Library/budovy/domky/1-2p/domek_1p_19b.obj,,,1,SQ,R2
