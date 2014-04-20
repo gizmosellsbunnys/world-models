@@ -778,6 +778,14 @@ EXPORT objects/houses/EU/RES_10.1x9.7_RED3.obj houses/EU/RES_10.1x9.7_RED3.obj
 EXPORT objects/houses/EU/RES_10.1x9.7_RED4.obj houses/EU/RES_10.1x9.7_RED4.obj
 EXPORT objects/houses/EU/RES_10.1x9.7_RED5.obj houses/EU/RES_10.1x9.7_RED5.obj
 EXPORT objects/houses/EU/RES_10.1x9.7_RED6.obj houses/EU/RES_10.1x9.7_RED6.obj
+EXPORT objects/houses/EU/RES_12.00x10.00_GREY1.obj houses/EU/RES_12.00x10.00_GREY1.obj
+EXPORT objects/houses/EU/RES_12.00x10.00_GREY2.obj houses/EU/RES_12.00x10.00_GREY2.obj
+EXPORT objects/houses/EU/RES_12.00x10.00_GREY3.obj houses/EU/RES_12.00x10.00_GREY3.obj
+EXPORT objects/houses/EU/RES_12.00x10.00_GREY4.obj houses/EU/RES_12.00x10.00_GREY4.obj
+EXPORT objects/houses/EU/RES_12.00x10.00_RED1.obj houses/EU/RES_12.00x10.00_RED1.obj
+EXPORT objects/houses/EU/RES_12.00x10.00_RED2.obj houses/EU/RES_12.00x10.00_RED2.obj
+EXPORT objects/houses/EU/RES_12.00x10.00_RED3.obj houses/EU/RES_12.00x10.00_RED3.obj
+EXPORT objects/houses/EU/RES_12.00x10.00_RED4.obj houses/EU/RES_12.00x10.00_RED4.obj
 EXPORT objects/houses/EU/RES_13.00x11.00_FLAT1.obj houses/EU/RES_13.00x11.00_FLAT1.obj
 EXPORT objects/houses/EU/RES_13.00x11.00_FLAT2.obj houses/EU/RES_13.00x11.00_FLAT2.obj
 EXPORT objects/houses/EU/RES_13.00x11.00_FLAT3.obj houses/EU/RES_13.00x11.00_FLAT3.obj

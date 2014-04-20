@@ -7,7 +7,8 @@ def read_entry(entry)
   file.close
   lines = contents.split("\n");
   
-  x1 = x2 = y1 = y2 = 0
+  x1 = x2 = y1 = y2 = z1 = z2 = 0
+  levels = 0
   commercial = false
   lines.each do |line|
     if line.include?("commercialTexture")
@@ -30,9 +31,18 @@ def read_entry(entry)
       if z > y2
         y2 = z
       end
+      
+      if y < z1
+        z1 = y
+      end
+      if y > z2
+        z2 = y
+      end
+      
     end
   end
   name = (commercial ? "COM_" : "RES_") << "#{x2-x1}x#{y2-y1}"; 
+  levels = ((z2 - z1 - 4) / 3).to_i
   
   count = 0;
   while File.exist?(name << "_#{count}.obj")
@@ -40,7 +50,7 @@ def read_entry(entry)
   end
   name = name << "_#{count}.obj"
   puts name
-  $csv = "#{$csv}#{x2-x1},#{y2-y1},residential,DE,objects/uwespeed/germany/#{name},,,2\n"
+  $csv = "#{$csv}#{x2-x1},#{y2-y1},residential,DE,objects/uwespeed/germany/#{name},,,#{levels},SQ,UWESPEED\n"
   File.rename(entry, name)
     
 end
