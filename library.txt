@@ -621,7 +621,6 @@ EXPORT objects/commercial/EU/COM_14.5x25.1_PL.obj commercial/EU/COM_14.5x25.1_PL
 EXPORT objects/commercial/EU/COM_22.9x16.7_PL.obj commercial/EU/COM_22.9x16.7_PL.obj
 EXPORT objects/commercial/EU/COM_23.0x18.8_PL.obj commercial/EU/COM_23.0x18.8_PL.obj
 EXPORT objects/commercial/EU/COM_35.8x13.8_PL.obj commercial/EU/COM_35.8x13.8_PL.obj
-EXPORT objects/commercial/EU/RET_Biedronka_25.3x38.5_PL.obj commercial/EU/RET_Biedronka_25.3x38.5_PL.obj
 EXPORT objects/commercial/Petrol_Esso_18x19.obj commercial/Petrol_Esso_18x19.obj
 EXPORT objects/commercial/Petrol_Shell_25x20.obj commercial/Petrol_Shell_25x20.obj
 EXPORT objects/commercial/mcdonalds_27.5x21.93.obj commercial/mcdonalds_27.5x21.93.obj
@@ -983,11 +982,17 @@ EXPORT objects/obstacles/power-pole.obj obstacles/power-pole.obj
 EXPORT objects/obstacles/powerline_tower_tall.obj obstacles/powerline_tower_tall.obj
 EXPORT objects/obstacles/ski-lift.obj obstacles/ski-lift.obj
 EXPORT objects/obstacles/ski-tow.obj obstacles/ski-tow.obj
+EXPORT objects/retail/EU/RET_16x36_ROSSMAN.obj retail/EU/RET_16x36_ROSSMAN.obj
 EXPORT objects/roads/30Limit.obj roads/30Limit.obj
 EXPORT objects/roads/50Limit.obj roads/50Limit.obj
 EXPORT objects/roads/Stop.obj roads/Stop.obj
 EXPORT objects/roads/Yield.obj roads/Yield.obj
-EXPORT objects/supermarkets/RET_64.00x32.00_LIDL_PL.obj supermarkets/RET_64.00x32.00_LIDL_PL.obj
+EXPORT objects/supermarkets/LIDL_65x32.obj supermarkets/LIDL_65x32.obj
+EXPORT objects/supermarkets/RET_30.00x24.00_NETTO.obj supermarkets/RET_30.00x24.00_NETTO.obj
+EXPORT objects/supermarkets/RET_32.00x29.00_ALDI.obj supermarkets/RET_32.00x29.00_ALDI.obj
+EXPORT objects/supermarkets/RET_37.10x33.64_NETTO.obj supermarkets/RET_37.10x33.64_NETTO.obj
+EXPORT objects/supermarkets/RET_37.65x43.50_Carrefour.obj supermarkets/RET_37.65x43.50_Carrefour.obj
+EXPORT objects/supermarkets/RET_Biedronka_25.3x38.5_PL.obj supermarkets/RET_Biedronka_25.3x38.5_PL.obj
 EXPORT objects/uwespeed/aegaen/R(frame)_16.8x21.0_13.obj uwespeed/aegaen/R(frame)_16.8x21.0_13.obj
 EXPORT objects/uwespeed/aegaen/R(frame)_16.8x21.0_14.obj uwespeed/aegaen/R(frame)_16.8x21.0_14.obj
 EXPORT objects/uwespeed/aegaen/R_16.8x21.0_1.obj uwespeed/aegaen/R_16.8x21.0_1.obj
