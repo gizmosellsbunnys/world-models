@@ -676,6 +676,12 @@ EXPORT objects/houses/EU/FR/BlackRoof_RES_10.4x11.0_FR.obj houses/EU/FR/BlackRoo
 EXPORT objects/houses/EU/FR/BlackRoof_RES_12.34x9.50_FR.obj houses/EU/FR/BlackRoof_RES_12.34x9.50_FR.obj
 EXPORT objects/houses/EU/FR/RES_10.4x11.0_FR.obj houses/EU/FR/RES_10.4x11.0_FR.obj
 EXPORT objects/houses/EU/FR/RES_12.34x9.50_FR.obj houses/EU/FR/RES_12.34x9.50_FR.obj
+EXPORT objects/houses/EU/GB/RES_6.60x7.15_UK1.obj houses/EU/GB/RES_6.60x7.15_UK1.obj
+EXPORT objects/houses/EU/GB/RES_6.60x7.15_UK2.obj houses/EU/GB/RES_6.60x7.15_UK2.obj
+EXPORT objects/houses/EU/GB/RES_7.00x8.00_UK1.obj houses/EU/GB/RES_7.00x8.00_UK1.obj
+EXPORT objects/houses/EU/GB/RES_7.00x8.00_UK2.obj houses/EU/GB/RES_7.00x8.00_UK2.obj
+EXPORT objects/houses/EU/GB/RES_7.00x8.00_UK3.obj houses/EU/GB/RES_7.00x8.00_UK3.obj
+EXPORT objects/houses/EU/GB/RES_7.00x8.00_UK4.obj houses/EU/GB/RES_7.00x8.00_UK4.obj
 EXPORT objects/houses/EU/GB/R_10.0x12.0_UK_3.obj houses/EU/GB/R_10.0x12.0_UK_3.obj
 EXPORT objects/houses/EU/GB/R_3.76x7.95_UK_1.obj houses/EU/GB/R_3.76x7.95_UK_1.obj
 EXPORT objects/houses/EU/GB/R_3.76x7.95_UK_2.obj houses/EU/GB/R_3.76x7.95_UK_2.obj
@@ -992,6 +998,7 @@ EXPORT objects/supermarkets/RET_30.00x24.00_NETTO.obj supermarkets/RET_30.00x24.
 EXPORT objects/supermarkets/RET_32.00x29.00_ALDI.obj supermarkets/RET_32.00x29.00_ALDI.obj
 EXPORT objects/supermarkets/RET_37.10x33.64_NETTO.obj supermarkets/RET_37.10x33.64_NETTO.obj
 EXPORT objects/supermarkets/RET_37.65x43.50_Carrefour.obj supermarkets/RET_37.65x43.50_Carrefour.obj
+EXPORT objects/supermarkets/RET_64.00x32.00_LIDL_PL.obj supermarkets/RET_64.00x32.00_LIDL_PL.obj
 EXPORT objects/supermarkets/RET_Biedronka_25.3x38.5_PL.obj supermarkets/RET_Biedronka_25.3x38.5_PL.obj
 EXPORT objects/uwespeed/aegaen/R(frame)_16.8x21.0_13.obj uwespeed/aegaen/R(frame)_16.8x21.0_13.obj
 EXPORT objects/uwespeed/aegaen/R(frame)_16.8x21.0_14.obj uwespeed/aegaen/R(frame)_16.8x21.0_14.obj
