@@ -1195,6 +1195,7 @@ EXPORT objects/commercial/EU/COM_14.5x25.1_PL.obj commercial/EU/COM_14.5x25.1_PL
 EXPORT objects/commercial/EU/COM_22.9x16.7_PL.obj commercial/EU/COM_22.9x16.7_PL.obj
 EXPORT objects/commercial/EU/COM_23.0x18.8_PL.obj commercial/EU/COM_23.0x18.8_PL.obj
 EXPORT objects/commercial/EU/COM_35.8x13.8_PL.obj commercial/EU/COM_35.8x13.8_PL.obj
+EXPORT objects/commercial/EU/RET_Biedronka_25.3x38.5_PL.obj commercial/EU/RET_Biedronka_25.3x38.5_PL.obj
 EXPORT objects/commercial/Petrol_Esso_18x19.obj commercial/Petrol_Esso_18x19.obj
 EXPORT objects/commercial/Petrol_Shell_25x20.obj commercial/Petrol_Shell_25x20.obj
 EXPORT objects/commercial/fastfood/burgerking.obj commercial/fastfood/burgerking.obj
