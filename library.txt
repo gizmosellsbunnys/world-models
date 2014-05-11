@@ -1253,6 +1253,7 @@ EXPORT objects/houses/EU/FR/BlackRoof_RES_10.4x11.0_FR.obj houses/EU/FR/BlackRoo
 EXPORT objects/houses/EU/FR/BlackRoof_RES_12.34x9.50_FR.obj houses/EU/FR/BlackRoof_RES_12.34x9.50_FR.obj
 EXPORT objects/houses/EU/FR/RES_10.4x11.0_FR.obj houses/EU/FR/RES_10.4x11.0_FR.obj
 EXPORT objects/houses/EU/FR/RES_12.34x9.50_FR.obj houses/EU/FR/RES_12.34x9.50_FR.obj
+EXPORT objects/houses/EU/GB/RES_5x7.75_UK1.obj houses/EU/GB/RES_5x7.75_UK1.obj
 EXPORT objects/houses/EU/GB/RES_6.60x7.15_UK1.obj houses/EU/GB/RES_6.60x7.15_UK1.obj
 EXPORT objects/houses/EU/GB/RES_6.60x7.15_UK2.obj houses/EU/GB/RES_6.60x7.15_UK2.obj
 EXPORT objects/houses/EU/GB/RES_7.00x8.00_UK1.obj houses/EU/GB/RES_7.00x8.00_UK1.obj
