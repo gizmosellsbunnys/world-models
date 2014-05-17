@@ -69,6 +69,7 @@ width,length,type,region,model,height-min,height-max,stories,shape,library,tags
 12.0,20.0,residential,,R2_Library/budovy/domky/RD/RD-2x_12x20d.obj,,,1,SQ,R2
 12.7,8.0,residential,,objects/houses/EU/R_12.7x8.0_PL_1.obj,,,,SQ,W2XP
 12.7,8.0,residential,,objects/houses/EU/R_12.7x8.0_PL_2.obj,,,,SQ,W2XP
+19.90,13.0,residential,DE;FR;NL;BE;AT;CH,objects/houses/EU/DE/RES_19.90x13.00_DE_7_1.obj,,,7,SQ,W2XP
 13.0,13.0,residential,,R2_Library/budovy/viladomy/vila-Soliter_13x13a.obj,,,3,SQ,R2
 13.0,13.0,residential,,R2_Library/budovy/viladomy/vila-Soliter_13x13b.obj,,,3,SQ,R2
 13.0,13.0,residential,,R2_Library/budovy/viladomy/vila-Soliter_13x13c.obj,,,3,SQ,R2
