@@ -1245,8 +1245,10 @@ EXPORT objects/houses/EU/CH/RES_39.68x12.45x14.16_CH.obj houses/EU/CH/RES_39.68x
 EXPORT objects/houses/EU/CH/RES_6.00x12.00x6.50_CH.obj houses/EU/CH/RES_6.00x12.00x6.50_CH.obj
 EXPORT objects/houses/EU/CH/RES_7.00x12.00x10.00_CH.obj houses/EU/CH/RES_7.00x12.00x10.00_CH.obj
 EXPORT objects/houses/EU/DE/COM_22.6x16.4_DE.obj houses/EU/DE/COM_22.6x16.4_DE.obj
+EXPORT objects/houses/EU/DE/RES_11.20x18.00_DE_3_1.obj houses/EU/DE/RES_11.20x18.00_DE_3_1.obj
 EXPORT objects/houses/EU/DE/RES_14.00x10.90_DE_3_1.obj houses/EU/DE/RES_14.00x10.90_DE_3_1.obj
 EXPORT objects/houses/EU/DE/RES_16.00x10.90_DE_3_1.obj houses/EU/DE/RES_16.00x10.90_DE_3_1.obj
+EXPORT objects/houses/EU/DE/RES_19.90x11.30_DE_3_1.obj houses/EU/DE/RES_19.90x11.30_DE_3_1.obj
 EXPORT objects/houses/EU/DE/RES_19.90x13.00_DE_7_1.obj houses/EU/DE/RES_19.90x13.00_DE_7_1.obj
 EXPORT objects/houses/EU/DE/RES_22.20_11.30_DE_3_1.obj houses/EU/DE/RES_22.20_11.30_DE_3_1.obj
 EXPORT objects/houses/EU/DE/R_12.0x8.0_DE_1.obj houses/EU/DE/R_12.0x8.0_DE_1.obj

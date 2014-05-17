@@ -73,7 +73,8 @@ width,length,type,region,model,height-min,height-max,stories,shape,library,tags
 14.00,10.90,residential,DE;FR;NL;BE;AT;CH,objects/houses/EU/DE/RES_14.00x10.90_DE_3_1.obj,,,3,SQ,W2XP,Red
 16.00,10.90,residential,DE;FR;NL;BE;AT;CH,objects/houses/EU/DE/RES_16.00x10.90_DE_3_1.obj,,,3,SQ,W2XP,Red
 22.20,11.30,residential,CE,objects/houses/EU/DE/RES_22.20_11.30_DE_3_1.obj,,,3,SQ,W2XP,Black
-
+18.00,11.20,residential,CE,objects/houses/EU/DE/RES_11.20x18.00_DE_3_1.obj,,,3,SQ,W2XP,Black
+19.90,11.30,residential,CE,objects/houses/EU/DE/RES_19.90x11.30_DE_3_1.obj,,,3,SQ,W2XP,Black
 13.0,13.0,residential,,R2_Library/budovy/viladomy/vila-Soliter_13x13a.obj,,,3,SQ,R2
 13.0,13.0,residential,,R2_Library/budovy/viladomy/vila-Soliter_13x13b.obj,,,3,SQ,R2
 13.0,13.0,residential,,R2_Library/budovy/viladomy/vila-Soliter_13x13c.obj,,,3,SQ,R2
