@@ -1582,6 +1582,7 @@ EXPORT objects/roads/30Limit.obj roads/30Limit.obj
 EXPORT objects/roads/50Limit.obj roads/50Limit.obj
 EXPORT objects/roads/Stop.obj roads/Stop.obj
 EXPORT objects/roads/Yield.obj roads/Yield.obj
+EXPORT objects/supermarkets/COOP_20.00x10.00_1.obj supermarkets/COOP_20.00x10.00_1.obj
 EXPORT objects/supermarkets/LIDL_65x32.obj supermarkets/LIDL_65x32.obj
 EXPORT objects/supermarkets/RET_30.00x24.00_NETTO.obj supermarkets/RET_30.00x24.00_NETTO.obj
 EXPORT objects/supermarkets/RET_32.00x29.00_ALDI.obj supermarkets/RET_32.00x29.00_ALDI.obj
