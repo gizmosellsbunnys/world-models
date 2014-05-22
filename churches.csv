@@ -1,5 +1,4 @@
 width,length,type,region,model,height-min,height-max,stories,shape,library
-16.0,29.0,church,,objects/churches/church.obj,,,,,SQ,W2XP
 19,9.4,church,CE,R2_Library/budovy/kostely/kostel-19m-zluty.obj,10,20,,SQ,R2
 19,9.4,church,CE,R2_Library/budovy/kostely/kostel-19m-cerveny.obj,10,20,,SQ,R2
 19,9.4,church,CE,R2_Library/budovy/kostely/kostel-19m-sedy.obj,10,20,,SQ,R2

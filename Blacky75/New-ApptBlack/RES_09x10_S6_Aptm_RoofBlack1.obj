@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE		Houses_Blacky75_aptm_black.png
+TEXTURE		Houses_Blacky75_aptm_black.png TEXTURE_LIT		Houses_Blacky75_aptm_black_LIT.png
 POINT_COUNTS	30 0 0 42
 
 VT	   4.5023   18.1090   -5.0204	 1.000  0.009 -0.000	 0.3186  0.7344
