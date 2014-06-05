@@ -9,6 +9,8 @@ width,length,type,region,model,height-min,height-max,stories,shape,library,tags
 6.40,6.90,residential,GB;IE;NL,objects/houses/EU/GB/R_6.4x6.9_UK_1.obj,,,2,SQ,W2XP,Black
 6.70,6.90,residential,GB;IE;NL,objects/houses/EU/GB/R_6.7x6.9_UK_1.obj,,,2,SQ,W2XP,Black
 7.00,7.00,residential,GB;IE;NL,objects/houses/EU/GB/R_7.0x7.0_UK_1.obj,,,2,SQ,W2XP,Black
+6.90,7.30,residential,GB;IE;NL,objects/houses/EU/GB/R_6.9x7.3_UK_1.obj,,,2,SQ,W2XP,Black
+7.30,11.30,residential,GB;IE;NL,objects/houses/EU/GB/R_7.3x11.3_UK_1.obj,,,1,SQ,W2XP,Black
 10.0,10.0,residential,,objects/houses/EU/RES_10x10_BLACK1.obj,,,2,SQ,W2XP,Black
 10.0,10.0,residential,,objects/houses/EU/RES_10x10_BLACK2.obj,,,2,SQ,W2XP,Black
 10.0,10.0,residential,,objects/houses/EU/RES_10x10_BLACK3.obj,,,2,SQ,W2XP,Black

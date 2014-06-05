@@ -1404,7 +1404,9 @@ EXPORT objects/houses/EU/GB/R_6.4x6.9_UK_1.obj houses/EU/GB/R_6.4x6.9_UK_1.obj
 EXPORT objects/houses/EU/GB/R_6.65x8.13_UK_1.obj houses/EU/GB/R_6.65x8.13_UK_1.obj
 EXPORT objects/houses/EU/GB/R_6.65x8.13_UK_2.obj houses/EU/GB/R_6.65x8.13_UK_2.obj
 EXPORT objects/houses/EU/GB/R_6.7x6.9_UK_1.obj houses/EU/GB/R_6.7x6.9_UK_1.obj
+EXPORT objects/houses/EU/GB/R_6.9x7.3_UK_1.obj houses/EU/GB/R_6.9x7.3_UK_1.obj
 EXPORT objects/houses/EU/GB/R_7.0x7.0_UK_1.obj houses/EU/GB/R_7.0x7.0_UK_1.obj
+EXPORT objects/houses/EU/GB/R_7.3X11.3_UK_1.obj houses/EU/GB/R_7.3X11.3_UK_1.obj
 EXPORT objects/houses/EU/GB/R_7.55x7.88_UK_1.obj houses/EU/GB/R_7.55x7.88_UK_1.obj
 EXPORT objects/houses/EU/GB/R_7.55x7.88_UK_2.obj houses/EU/GB/R_7.55x7.88_UK_2.obj
 EXPORT objects/houses/EU/GB/R_7.65x10.4_UK_1.obj houses/EU/GB/R_7.65x10.4_UK_1.obj
