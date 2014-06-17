@@ -1269,6 +1269,7 @@ EXPORT objects/agriculture/Farm_40x12_Grey_1.obj agriculture/Farm_40x12_Grey_1.o
 EXPORT objects/agriculture/Farm_40x12_Grey_2.obj agriculture/Farm_40x12_Grey_2.obj
 EXPORT objects/agriculture/Farm_40x12_Red_1.obj agriculture/Farm_40x12_Red_1.obj
 EXPORT objects/agriculture/Farm_40x12_Red_2.obj agriculture/Farm_40x12_Red_2.obj
+EXPORT objects/agriculture/silo.obj agriculture/silo.obj
 EXPORT objects/cars/car_mercedes_sprinter.obj cars/car_mercedes_sprinter.obj
 EXPORT objects/cars/cars_bmw_3_touring.obj cars/cars_bmw_3_touring.obj
 EXPORT objects/cars/cars_bus_blue.obj cars/cars_bus_blue.obj
