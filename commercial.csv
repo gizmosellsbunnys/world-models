@@ -28,6 +28,13 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 23.0,18.8,commercial,CE;PL;DE,objects/commercial/EU/COM_23.0x18.8_PL.obj,,,4,SQ,W2XP
 23.0,18.8,commercial,,objects/commercial/EU/COM_23.0x18.8_PL.obj,,,4,SQ,W2XP
 22.60,16.40,commercial,DE;PL,objects/houses/EU/DE/COM_22.6x16.4_DE.obj,,,2,SQ,W2XP
+18.33,10.41,commercial,GB;IE;NL,objects/houses/EU/IE/RET_18.33x10.41_2_IE.obj,,,2,SQ,W2XP,Black
+18.50,7.62,commercial,GB;IE;NL,objects/houses/EU/IE/RET_18.50x7.62_2_IE.obj,,,2,SQ,W2XP,Black
+19.31,8.36,commercial,GB;IE;NL,objects/houses/EU/IE/RET_19.31x8.36_2_IE.obj,,,2,SQ,W2XP,Black
+29.06,13.18,commercial,GB;IE;NL,objects/houses/EU/IE/RET_29.06x13.18_1_IE.obj,,,1,SQ,W2XP,Black
+9.21,7.08,commercial,GB;IE;NL,objects/houses/EU/IE/PUB_9.21x7.08_2_IE.obj,,,2,SQ,W2XP,Black
+13.77,10.10,commercial,GB;IE;NL,objects/houses/EU/IE/PUB_13.77x10.10_2_IE.obj,,,2,SQ,W2XP,Black
+28.64,12.15,commercial,GB;IE;NL,objects/houses/EU/IE/COM_28.64x12.15_3_IE.obj,,,2,SQ,W2XP,Black
 
 
 
